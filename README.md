@@ -9,7 +9,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microsoft/Google/Atlassian/DeepLearning.AI Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> AI Developer 😃
+I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microsoft/Google/Atlassian/DeepLearning.AI Certified
 
 - :telescope: Currently Pursuing Master of Science Data Science from Univesrity of Hertfordshire. A Graduate of NUCES with a major in Artificial Intelligence
 
@@ -18,10 +18,12 @@ I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microso
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moaz-tahir/)
 
 ### My Stats :
-<div id="Stats" align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=MoazTahir&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
-  
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoazTahir&show_icons=true&bg_color=00000000)
-  
+<div align="center">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://git.io/streak-stats">
+      <img src="https://streak-stats.demolab.com?user=MoazTahir&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" />
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api?username=MoazTahir&show_icons=true&bg_color=00000000" />
+  </div>
 </div>
