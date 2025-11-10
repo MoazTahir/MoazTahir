@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/moaz-tahir-08469b219/">
+  <a href="https://www.linkedin.com/in/moaz-tahir">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://instagram.com/zackfair_moaz?igshid=OGQ5ZDc2ODk2ZA==">
@@ -17,7 +17,7 @@
 </div>
 
 <div id="Views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZackFairMoaz&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=MoazTahir&style=flat-square&color=blue" alt=""/>
 </div>
 
 <h1 align="center">
@@ -26,15 +26,13 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a Machine Learning Engineer | AWS Certified | Azure Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> AI Developer 😃
+I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microsoft/Google/Atlassian/DeepLearning.AI Certified <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> AI Developer 😃
 
-- :telescope: A Graduate of the National University of Computing and Emerging Sciences with a major in Artificial Intelligence
+- :telescope: Currently Pursuing Master of Science Data Science from Univesrity of Hertfordshire. A Graduate of NUCES with a major in Artificial Intelligence
 
-- :seedling: Currently exploring and learning Machine learning, NLP/LLM , and CV development along with tools and techniques to enhance my knowledge
+- :seedling: Expanding my horizons with staying uptodate with latest and greatest in AI domains and mastering different skillsets.
 
-- :zap: In my free time, I enhance my skillset, play games, or do coding for fun!
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moaz-tahir-08469b219/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moaz-tahir/)
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -67,8 +65,8 @@ I am a Machine Learning Engineer | AWS Certified | Azure Certified <img src="htt
 ### :fire: My Stats :
 <div id="Stats" align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=zackfairmoaz&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=MoazTahir&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
   
-  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zackfairmoaz&show_icons=true&bg_color=00000000)
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=MoazTahir&show_icons=true&bg_color=00000000)
   
 </div>
