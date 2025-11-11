@@ -24,6 +24,5 @@ I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microso
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=MoazTahir&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&hide_longest_streak=true" />
     </a>
-    <img src="https://github-readme-stats.vercel.app/api?username=MoazTahir&show_icons=true&bg_color=00000000" />
   </div>
 </div>
