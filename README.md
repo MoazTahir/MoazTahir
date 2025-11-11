@@ -17,8 +17,6 @@ I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microso
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/moaz-tahir/)
 
-### My Stats :
-
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://git.io/streak-stats">
