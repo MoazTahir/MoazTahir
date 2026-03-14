@@ -9,7 +9,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am an AI Learning Engineer and a Postgrad Student at Herts UK | Amazon/Microsoft/Google/Atlassian/DeepLearning.AI Certified
+I am an AI Engineer and a Postgrad Student at Herts UK | Amazon/Microsoft/Google/Atlassian/DeepLearning.AI Certified
 
 - :telescope: Currently Pursuing Master of Science Data Science from Univesrity of Hertfordshire. A Graduate of NUCES with a major in Artificial Intelligence
 
